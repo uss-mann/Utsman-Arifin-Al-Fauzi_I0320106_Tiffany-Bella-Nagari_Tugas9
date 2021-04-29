@@ -1,3 +1,4 @@
+#Exercise 9.9 dan 9.10
 import array
 
 A = array.array('i',[100,200,300,400,500])
